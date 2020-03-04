@@ -15,3 +15,13 @@
 <fanart></fanart>
 <info></info>
 </item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>KEEPO</title>
+<link>ignoreme</link>
+<jsonrpc>https://canaisgratis.eu/player3/canaishlb.php?canal=cartoon</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
